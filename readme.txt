@@ -4,4 +4,8 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 hahahahahah
 hehehehehe
-update on master
+<<<<<<< HEAD
+update on feature1
+=======
+update on feature1
+>>>>>>> feature1
